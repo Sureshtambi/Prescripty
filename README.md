@@ -25,7 +25,7 @@ git clone https://github.com/Sureshtambi/chatshpere
 Go to the project directory  
 
 ```bash
-cd MERN_ChatRoom_master
+cd MERN_Chatshpere_master
 ```
 
 ### Install dependencies  
