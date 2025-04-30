@@ -14,49 +14,6 @@ Uses Socket.io for real-time communication and stores user details in encrypted 
 [ChatSphere Live](https://chatsphere-50oc.onrender.com/)  
 
 
-## Installation  
-
-### Clone the project  
-
-```bash
-git clone https://github.com/Sureshtambi/chatshpere
-```
-
-Go to the project directory  
-
-```bash
-cd MERN_Chatshpere_master
-```
-
-### Install dependencies  
-
-```bash
-npm install
-```
-
-Navigate to the frontend directory and install frontend dependencies  
-
-```bash
-cd frontend/
-npm install
-```
-
-### Start the Server  
-
-```bash
-npm run start
-```
-
-### Start the Client  
-
-```bash
-# Open a new terminal
-cd frontend
-npm start
-```
-
-
-
 ## Features  
 
 ✅ Real-time messaging with **Socket.io**  
